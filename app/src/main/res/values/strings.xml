@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Full Name</string>
+    <string name="title">Title</string>
+    <string name="phone_number">+00 (00) 000 000</string>
+    <string name="email_address">email@domain.com</string>
+    <string name="instagram">\@socialmediahandle</string>
+    <string name="ic_android_logo_desc">Android App Icon</string>
+</resources>
